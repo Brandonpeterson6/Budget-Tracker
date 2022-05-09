@@ -8,7 +8,7 @@ an App that allows the user to add and subtract their expenses and shows them a 
 * WHEN the user reestablishes an internet connection
 * THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
-![alt image](screenshot-budget.png)
+![alt image](screenshot-budget.png?raw=true)
 
 
 
